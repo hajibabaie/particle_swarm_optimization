@@ -1,5 +1,4 @@
 import numpy as np
-
 from particle_swarm_optimization.knapsack_problem_integer.model_data import Data
 
 
